@@ -2,8 +2,6 @@
 
 A machine-learning project that predicts which telecom customers are about to leave and turns that prediction into a quantified, ROI-positive retention plan. Built as an end-to-end proof of concept: data → model → business case → executive presentation.
 
-> **TL;DR** — On 100,000 real customer records, an XGBoost model identifies churners with **ROC-AUC 0.69**. Targeting just the top 10% highest-risk customers with a retention offer is projected to save ~2,360 customers and deliver **~$1.17M net benefit per year (467% ROI)**.
-
 ---
 
 ## Why this project
